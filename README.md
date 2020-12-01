@@ -11,3 +11,9 @@ O controle das tarefas desse projeto será realizado no GitHub
 :up: atualização
 :beatle: correção de bug
 :checkered_flag: release
+
+## Menu
+:package: Menu sidebar
+
+## Adicionado Apa "Conhecimentos"
+:package: Portfóli adicionado
